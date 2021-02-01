@@ -1,2 +1,1 @@
-# apache image
-# apache image, nginx image, Tomcat image... using the bath based set up
+#  apache image, nginx image, Tomcat image... using the path based set up in k8
